@@ -41,7 +41,7 @@
 <!-- Currently Learning & Building Section -->
 <h2 align="center" id="learning">📚 Currently Learning & Building</h2>
 
-- 🔭 Working on: *[describe your current project]*  
+- 🔭 Working on: *FuelHelper.info*  
 - 🌱 Learning: *[technologies, tools, topics]*  
 - 🧪 Experimenting with: *[new frameworks, AI models, etc.]*  
 - 🛠️ Building: *[a SaaS, a portfolio, an automation tool]*  
